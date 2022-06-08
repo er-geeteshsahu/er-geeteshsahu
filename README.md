@@ -1,4 +1,4 @@
-<img src="[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)" alt="coding" width="100" img align="center">
+<img src="https://tse2.mm.bing.net/th?id=OIP.bMNa-cXektwWjpXtW8u3LwHaDV&pid=Api&P=0&w=398&h=179" alt="coding" width="100" img align="center">
 <h1 align="center">Hi 👋, I'm Geetesh Sahu</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif" alt="coding" width="400" img align="right">
