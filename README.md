@@ -1,4 +1,3 @@
-<img src="https://www.teahub.io/photos/full/20-202649_coding-wallpaper-4k.jpg" alt="coding" width="1200" height="400" img align="center">
 <h1 align="center">Hi 👋, I'm Geetesh Sahu</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif" alt="coding" width="400" img align="right">
